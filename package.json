@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Search-index interactive command line tool for testing out search-index API",
   "dependencies": {
+    "search-index": "^1.0.5",
     "commander": "^2.20.0",
     "inquirer": "^6.3.1",
     "mongoose": "^5.5.5"
